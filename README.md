@@ -1,6 +1,6 @@
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/declan.png" alt="TryHackMe">
 
+$fet
 <!--
 **DeclanTy/DeclanTy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
